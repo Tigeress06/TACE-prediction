@@ -1,4 +1,5 @@
 # TACE-prediction
+- This project is a novel Artificial Intelligence system (never made before) which utilizes Machine Learning to predict Transarterial Chemoembolization therapy outcomes for Hepatocellular Carcinoma patients
 - Download the CNN model from "CNN_model_README.md" into the predictions code found in "prediction.ipynb".
 - The given csv data from the Cancer Imaging Archive found in "HCC-TACE-Seg_clinical_data-V2 copy.csv" is used for the Logistic Regression model.
 - The code used to build the logistic regression is found in "HCC_TACE_logistic_regression.ipynb"
