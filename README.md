@@ -1,3 +1,3 @@
 # TACE-prediction
-- Load the CNN model into the predictions code.
+- Download the CNN model from "CNN_model_README.md" into the predictions code.
 - Use the given csv data for the Logistic Regression model.
