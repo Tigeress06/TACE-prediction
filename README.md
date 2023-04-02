@@ -1,4 +1,4 @@
-# Novel AI system for predicting Transarterial Chemoembolization therapy results on Hepatocellular Carcinoma Patients
+# TAPS: a Novel AI system for predicting Transarterial Chemoembolization therapy results on Hepatocellular Carcinoma Patients
 ## Project directions
 - This project is a novel Artificial Intelligence system (never made before) which utilizes Machine Learning to predict Transarterial Chemoembolization therapy outcomes for Hepatocellular Carcinoma patients
 - Download the CNN model from "CNN_model_README.md" into the predictions code found in "prediction.ipynb".
