@@ -6,7 +6,7 @@
 - The code used to build the logistic regression is found in "HCC_TACE_logistic_regression.ipynb"
 - The code used to build the Convolutional Neural Network is found in "HCC_TACE_CNN_Model_code.ipynb"
 - All images used can be downloaded using the Convolutional Neural Network code (retrieves the images from a zip file in onedrive)
-- Download the "HCC-TACE_project-results.pptx" to take a look at results and conclusions for the project
+- Download the "HCC-TACE_results.pptx" to take a look at results and conclusions for the project
 
 ## Convolutional Neural Network Purpose
 The Convolutional Neural Network model is created to provide a predictions system to help professionals when prescribing Transarterial Chemoembolization therapy to their Hepatocellular Carcinoma Patients.
